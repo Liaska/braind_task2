@@ -14,4 +14,4 @@ Node.js был уменьшен до версии 11.10.1, gulp версии 3.9
 В main.js - переменные $btns - изменены на let btns;  
 dataType изменен с "html" на "json" (11 строка);  
 Немного изменены строки 12-22;  
-Добавлены стили в main.scss для .cart-icon, .cart-icon__counter  
+Добавлены стили в main.scss для .cart-icon, .cart-icon__counter;  
