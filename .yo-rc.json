@@ -1,0 +1,15 @@
+{
+  "generator-static-site": {
+    "config": {
+      "projectName": "shop",
+      "htmlOption": "jade",
+      "jsPreprocessor": "es6",
+      "concatOldScripts": "no",
+      "cssOption": "sass",
+      "sassSyntax": "scss",
+      "mergePackageJson": "no",
+      "testFramework": "none"
+    },
+    "version": "0.0.1"
+  }
+}
